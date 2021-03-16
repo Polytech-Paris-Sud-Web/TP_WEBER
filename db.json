@@ -1,0 +1,28 @@
+{
+  "articles": [
+    {
+      "title": "My First Article",
+      "content": "Hello World",
+      "authors": "WW",
+      "id": 1
+    },
+    {
+      "title": "Angular component",
+      "content": "Angular component looks awesome!",
+      "authors": "WW",
+      "id": 2
+    },
+    {
+      "title": "Fake Title",
+      "content": "test",
+      "author": "test",
+      "id": 3
+    },
+    {
+      "title": "Fake Title",
+      "content": "ceci est un test",
+      "author": "let's go le test",
+      "id": 4
+    }
+  ]
+}
